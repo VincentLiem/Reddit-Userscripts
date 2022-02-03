@@ -9,8 +9,4 @@
 
 // ==/UserScript==
  
-var address = window.location.href;
-address = address.replace("www.reddit", "old.reddit");
-
-
-window.location.replace(address);
+window.location.replace(window.location.href.replace("www.reddit", "old.reddit"));
