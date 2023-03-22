@@ -20,4 +20,4 @@ setTimeout(function () {
     if (continueButton) {
         continueButton.click();
     }
-}, 3000);
+}, 4000);
