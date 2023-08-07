@@ -5,6 +5,7 @@
 // @exclude      *://old.reddit.com/*
 // @exclude      *://www.reddit.com/gallery*
 // @exclude      *://www.reddit.com/poll*
+// @exclude      *://www.reddit.com/media*
 // @exclude      *chat.reddit.com/*
 // @run-at       document-start
 
