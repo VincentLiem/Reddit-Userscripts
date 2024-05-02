@@ -6,6 +6,8 @@
 // @exclude      *://www.reddit.com/gallery*
 // @exclude      *://www.reddit.com/poll*
 // @exclude      *://www.reddit.com/media*
+// @exclude      *://www.reddit.com/login*
+// @exclude      *://www.reddit.com/register*
 // @exclude      *chat.reddit.com/*
 // @run-at       document-start
 
