@@ -9,6 +9,7 @@
 // @exclude      *://www.reddit.com/login*
 // @exclude      *://www.reddit.com/register*
 // @exclude      *://www.reddit.com/login*
+// @exclude      *://www.reddit.com/message*
 // @exclude      *chat.reddit.com/*
 // @run-at       document-start
 
